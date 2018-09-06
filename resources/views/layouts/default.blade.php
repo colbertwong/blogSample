@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<html>
 <head>
     <meta charset="UTF-8">
     <title>@yield('title', 'Blog App') - L01</title>
@@ -14,5 +14,6 @@
             @include('layouts._footer')
         </div>
     </div>
+    <script src="/js/app.js"></script>
 </body>
 </html>
