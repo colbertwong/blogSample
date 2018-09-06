@@ -8551,3 +8551,11 @@ input {
   border-bottom: 1px solid #eeeeee;
 }
 
+/* delete btn */
+
+.delete-btn {
+  float: right;
+  position: relative;
+  right: 0;
+}
+
